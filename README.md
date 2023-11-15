@@ -6,6 +6,7 @@ pyautogui
 keyboard
 time
 # Usage
+
 1.Open the Chrome browser and navigate to a webpage with no internet connection to trigger the Dinosaur Game.
 2.Run the Python script.
 3.The script will automatically control the dinosaur's jump using PyAutoGUI, simulating key presses with the keyboard module.
